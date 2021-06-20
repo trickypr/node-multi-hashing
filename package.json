@@ -1,5 +1,5 @@
 {
-    "name": "multi-hashing",
+    "name": "@trickypr/multi-hashing",
     "version": "1.0.0",
     "main": "multihashing",
     "author": {
